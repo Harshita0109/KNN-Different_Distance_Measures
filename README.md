@@ -21,4 +21,4 @@
 
 **Exploratory Data Analysis**
 
-**Model Building** : Using KNN with different distance measures
+**Model Building** : KNN with different distance measures
